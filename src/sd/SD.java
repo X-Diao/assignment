@@ -7,7 +7,7 @@ package sd;
 
 /**
  *
- * @author Schicksal
+ * @author XueDiao
  */
 public class SD {
 
